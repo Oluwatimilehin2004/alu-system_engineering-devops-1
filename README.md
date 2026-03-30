@@ -87,3 +87,7 @@ echo "ssh-rsa AAAA..." >> ~/.ssh/authorized_keys
 ## Author
 
 Built as part of the **ALU System Engineering & DevOps** program.
+
+---
+## 📦 Imported from [https://github.com/Kaylain7/alu-system_engineering-devops](https://github.com/Kaylain7/alu-system_engineering-devops)
+*Imported using ForkYouToo - Learn, Adapt, Build*
